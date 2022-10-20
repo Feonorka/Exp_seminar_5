@@ -1,0 +1,15 @@
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\obj\Debug\net6.0\Lvl_42.csproj.AssemblyReference.cache
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\obj\Debug\net6.0\Lvl_42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\obj\Debug\net6.0\Lvl_42.AssemblyInfoInputs.cache
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\obj\Debug\net6.0\Lvl_42.AssemblyInfo.cs
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\obj\Debug\net6.0\Lvl_42.csproj.CoreCompileInputs.cache
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\bin\Debug\net6.0\Lvl_42.exe
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\bin\Debug\net6.0\Lvl_42.deps.json
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\bin\Debug\net6.0\Lvl_42.runtimeconfig.json
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\bin\Debug\net6.0\Lvl_42.dll
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\bin\Debug\net6.0\Lvl_42.pdb
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\obj\Debug\net6.0\Lvl_42.dll
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\obj\Debug\net6.0\refint\Lvl_42.dll
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\obj\Debug\net6.0\Lvl_42.pdb
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\obj\Debug\net6.0\Lvl_42.genruntimeconfig.cache
+C:\Users\aspdg\OneDrive\Документы\C#Sem_5\Lvl_42\obj\Debug\net6.0\ref\Lvl_42.dll
