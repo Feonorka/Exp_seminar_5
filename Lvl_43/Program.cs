@@ -9,7 +9,6 @@ double k2 = Convert.ToDouble(Console.ReadLine());
 
 double XPoint(double b1, double k1, double b2, double k2)
 {
-    double y = default;
     double x = default;
     x = (b2 - b1) / (k1 - k2);
     return x;

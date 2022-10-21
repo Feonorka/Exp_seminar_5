@@ -26,17 +26,6 @@ void ToBin2 (int num)
     Console.Write(num % 2);
 }
 
-void PrintArray(int[] arr)
-{
-    int count = arr.Length;
-    Console.WriteLine("Сгенерированный массив:");
-    for (int i = 0; i < count; i++)
-    {
-        if (i == count - 1) Console.Write($"{arr[i]} ");
-        else Console.Write($"{arr[i]}, ");
-    }
-    Console.WriteLine();
-}
 
 ToBin1(num);
 ToBin2(num);
