@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_41\\Lvl_41.csproj": {}
+    "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_43\\Lvl_43.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_41\\Lvl_41.csproj": {
+    "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_43\\Lvl_43.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_41\\Lvl_41.csproj",
-        "projectName": "Lvl_41",
-        "projectPath": "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_41\\Lvl_41.csproj",
+        "projectUniqueName": "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_43\\Lvl_43.csproj",
+        "projectName": "Lvl_43",
+        "projectPath": "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_43\\Lvl_43.csproj",
         "packagesPath": "C:\\Users\\ivc_YutishevAA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_41\\obj\\",
+        "outputPath": "C:\\Users\\ivc_YutishevAA\\Documents\\C#\\Lvl\\Lvl_43\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ivc_YutishevAA\\AppData\\Roaming\\NuGet\\NuGet.Config"

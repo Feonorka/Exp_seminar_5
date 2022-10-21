@@ -1,0 +1,15 @@
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\obj\Debug\net6.0\Lvl_43.csproj.AssemblyReference.cache
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\obj\Debug\net6.0\Lvl_43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\obj\Debug\net6.0\Lvl_43.AssemblyInfoInputs.cache
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\obj\Debug\net6.0\Lvl_43.AssemblyInfo.cs
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\obj\Debug\net6.0\Lvl_43.csproj.CoreCompileInputs.cache
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\bin\Debug\net6.0\Lvl_43.exe
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\bin\Debug\net6.0\Lvl_43.deps.json
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\bin\Debug\net6.0\Lvl_43.runtimeconfig.json
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\bin\Debug\net6.0\Lvl_43.dll
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\bin\Debug\net6.0\Lvl_43.pdb
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\obj\Debug\net6.0\Lvl_43.dll
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\obj\Debug\net6.0\refint\Lvl_43.dll
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\obj\Debug\net6.0\Lvl_43.pdb
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\obj\Debug\net6.0\Lvl_43.genruntimeconfig.cache
+C:\Users\ivc_YutishevAA\Documents\C#\Lvl\Lvl_43\obj\Debug\net6.0\ref\Lvl_43.dll

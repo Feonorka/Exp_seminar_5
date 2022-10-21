@@ -26,19 +26,6 @@ void ToBin2 (int num)
     Console.Write(num % 2);
 }
 
-int[] ToBin3(int num)
-{
-    arr[0] = num;
-    int pos = 1;
-    if (arr[0] > 0)
-    {
-        arr[pos] = arr[0] % 2;
-        Console.Write(arr[pos]);
-        pos++;
-        ToBin(arr[0] / 2);
-    }
-}
-
 void PrintArray(int[] arr)
 {
     int count = arr.Length;
@@ -53,4 +40,3 @@ void PrintArray(int[] arr)
 
 ToBin1(num);
 ToBin2(num);
-ToBin3(num);
